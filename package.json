@@ -16,7 +16,7 @@
   "author": "riaan@entersekt.com",
   "description": "Basic to do list exercise",
   "devDependencies": {
-    "chai": "^4.2.0",
+    "chai": "^5.1.2",
     "mocha": "^10.7.3",
     "nyc": "^14.1.1",
     "supertest": "^4.0.2"
